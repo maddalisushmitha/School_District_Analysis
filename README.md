@@ -71,5 +71,8 @@ Correcting the data where ever necessary and analyzing the corrected data so as 
   ![sb](https://github.com/maddalisushmitha/School_District_Analysis/blob/main/images%20for%20readme/school_type_new.png)
   
   
+  ## Summary
+  
+  
   
  
