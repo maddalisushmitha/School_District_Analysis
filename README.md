@@ -71,8 +71,13 @@ Correcting the data where ever necessary and analyzing the corrected data so as 
   ![sb](https://github.com/maddalisushmitha/School_District_Analysis/blob/main/images%20for%20readme/school_type_new.png)
   
   
-  ## Summary
+  ## Summary:
   
-  
-  
+- Average Math Score was decreased by 0.1 percent
+- Average Reading Score was unchanged
+- % passing Math Score was decreased by 0.2 percent
+- % passing Reading Score was decreased by 0.3 percent
+- % Overall Passing was decreased by 0.1 %
+
+In conclusion this does not change much in the updated district data 
  
